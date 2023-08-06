@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CandyWife003
 - 👀 I’m interested in candy machine
 - 🌱 I’m currently learning scripts
-- 💞️ I’m looking to collaborate on _______
 - 📫 How to reach me (DON'T)
 
 <!---
